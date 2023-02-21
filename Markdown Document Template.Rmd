@@ -37,8 +37,9 @@ I can add an image like this.
 
 <center>![](fixing_problems.png)</center>
 
-`<center>` is a brute-force way of telling Markdown to start centering some text or an image, `</center>` tells Markdown to stop centering. (This should be familiar to anyone who poked around with html code.) 
+`<center>` is a brute-force way of telling Markdown to start centering some text or an image, `</center>` tells Markdown to stop centering. (This should be familiar to anyone who has poked around with html code.) 
 
+#### Another fun stff
 
 I can also change code chunk settings to make my documents purtier. There are lots of options. Here are a few.
 
@@ -47,3 +48,20 @@ I can also change code chunk settings to make my documents purtier. There are lo
 plot(cars$speed, cars$dist)
 
 ```
+
+Bulleted lists are lots of fun and oh so useful. To make a list start a line with `-`.
+
+Things I like
+- `popcorn`
+- `puppies`
+- `pirates`
+
+And dont forget about *italicizing* and **bolding** your font!
+
+**Isn't it amazing!**
+
+
+
+
+
+
